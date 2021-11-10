@@ -1,7 +1,2 @@
-# Test-GitHub
-I want to learn GitHub
-
-
-# Hey Guys 
-
-I learn GitHub
+# Test-GitHub-File
+My File
